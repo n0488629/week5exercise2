@@ -42,7 +42,8 @@ namespace week5exercise2
                     case 5:
                         return;
                     default:
-                        break; ;
+                        Console.WriteLine("Please enter a valid input");
+                        break; 
                 }
             }
         }
